@@ -8,7 +8,7 @@ Sou discente de Ciência de Dados e atuo na área de Análise de Dados e Automat
 
 ### Estatísticas࣪ ִֶָ☾. 
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=jolly&fontFamily=Montserrat+SC&preferLogin=false&Points.Commits=0.7&Ring=DEB5F7&Text=B57BBD&Title=DEB5F7&Background=313131"><img alt="tatsuyadesire's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tatsuyadesire?cardType=github&theme=jolly&fontFamily=Vollkorn%20SC&preferLogin=false&Points.Commits=0.7&Ring=DEB5F7&Text=B57BBD&Title=DEB5F7&Background=313131" height="200" /></a><img src="./gengar-roxo.png" alt="Gengar" height="200" />
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=jolly&fontFamily=Montserrat+SC&preferLogin=false&Points.Commits=0.7&Ring=DEB5F7&Text=B57BBD&Title=DEB5F7&Background=313131"><img alt="tatsuyadesire's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tatsuyadesire?cardType=github&theme=jolly&fontFamily=Vollkorn%20SC&preferLogin=false&Points.Commits=0.7&Ring=DEB5F7&Text=B57BBD&Title=DEB5F7&Background=313131" height="180" /></a><img src="./gengar-roxo.png" alt="Gengar" height="180" />
 
 ---
 

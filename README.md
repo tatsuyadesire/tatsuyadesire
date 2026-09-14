@@ -108,6 +108,19 @@ Projeto de Processamento de Linguagem Natural utilizando Python e NLTK, com apli
 
 ---
 
+
+### Áreas de Interesse ⋆｡𖦹°⭒˚｡⋆
+
+- Análise e Visualização de Dados
+- Machine Learning e Modelagem Preditiva
+- Automação de Processos com Python e VBA
+- Bancos de Dados e SQL
+- Processamento de Linguagem Natural
+- Desenvolvimento de Soluções Orientadas a Dados
+- Aplicações de Dados em Processos Industriais
+  
+---
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tatsuyadesire/tatsuyadesire/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tatsuyadesire/tatsuyadesire/output/github-contribution-grid-snake-dark.svg">

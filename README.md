@@ -47,6 +47,7 @@ Sou discente de Ciência de Dados e atuo na área de Análise de Dados e Automat
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square)
+
 ---
 
 <picture align="center">

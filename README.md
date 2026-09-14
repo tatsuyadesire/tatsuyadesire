@@ -6,7 +6,7 @@ Sou discente de Ciência de Dados e atuo na área de Análise de Dados e Automat
 
 ---
 
-### Estatísticas࣪ ִֶָ☾. 
+### Estatísticas࣪ ִֶָ☾.
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=jolly&fontFamily=Montserrat+SC&preferLogin=false&Points.Commits=0.7&Ring=DEB5F7&Text=B57BBD&Title=DEB5F7&Background=313131"><img alt="tatsuyadesire's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tatsuyadesire?cardType=github&theme=jolly&fontFamily=Vollkorn%20SC&preferLogin=false&Points.Commits=0.7&Ring=DEB5F7&Text=B57BBD&Title=DEB5F7&Background=313131" height="180" /></a><img src="./gengar-trans.svg" alt="Gengar" height="180" />
 
@@ -14,15 +14,39 @@ Sou discente de Ciência de Dados e atuo na área de Análise de Dados e Automat
 
 ### Linguagens e Tecnologias 𖥔 ݁ ˖
 
-<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="VB" title="Visual Basic" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
-<img align="left" alt="R" title="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-<img align="left" alt="VSCode" title="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+#### Linguagens
 
-<br clear="both"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=flat-square)
 
+#### Banco de Dados
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+#### Dados & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+#### Desenvolvimento & Ambiente
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+#### Outras Ferramentas
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square)
 ---
 
 <picture align="center">

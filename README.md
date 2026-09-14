@@ -22,6 +22,9 @@ Sou discente de Ciência de Dados e atuo na área de Análise de Dados e Automat
 
 <br clear="both"/>
 
+
+---
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tatsuyadesire/tatsuyadesire/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tatsuyadesire/tatsuyadesire/output/github-contribution-grid-snake-dark.svg">
